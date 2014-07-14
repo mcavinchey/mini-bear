@@ -1,0 +1,8 @@
+In our use case, we had several requirements:
+
+1. Allow anyone (not just registered users) to follow certain site content updates
+2. Require e-mail validation for anyone signing up, along with CAPTCHA validation to keep spam to a minimum
+3. Allow followers to check boxes to specifically follow one, or many, different types of content updates
+4. The allowed types of content updates would be negotiated, then set up by IT
+5. An email would go out whenever an update occurred, either with the content included in the email body, or as a teaser with a link to the content
+6. The content may include a single instance of content, or feature a list of recent (or highlighted) content
